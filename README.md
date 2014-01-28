@@ -1,7 +1,3 @@
-Created by Codrops
+This is my new consumer facing website that offers up web development for cheap. 
 
-http://www.codrops.com
-
-Integrate or build upon it for free in your personal or commercial projects. Don't republish, redistribute or sell "as-is". 
-
-Read more here: http://tympanus.net/codrops/licensing/
+It offers businesses the ability to launch their own apps and dictate what they want their website to look like.
